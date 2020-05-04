@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="app.taxi.AppTest" time="0.015" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Java\jdk8_u131\bin"/>
+    <property name="java.vm.version" value="25.131-b11"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Dalina\Documents\taxi"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\Dalina\Documents\taxi"/>
+    <property name="java.runtime.version" value="1.8.0_131-b11"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Java\jdk8_u131\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Dalina\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 8.1"/>
+    <property name="classworlds.conf" value="C:\Users\Dalina\Documents\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf3612264603041429869.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Java\jdk8_u131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Java/jdk8_u131/bin/server;C:/Java/jdk8_u131/bin;C:/Java/jdk8_u131/lib/amd64;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\libnvvp;C:\Program Files\Microsoft MPI\Bin\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\CodeBlocks\MinGW\bin;C:\Program Files (x86)\MiKTeX 2.9\miktex\bin\;C:\Program Files\doxygen\bin;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files (x86)\OpenVPN\bin;C:\Program Files (x86)\Microchip\xc8\v1.37\bin;C:\Xilinx92i\bin\nt;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\TDM-GCC-64\bin;C:\Program Files\MPICH2\bin;C:\Users\Dalina\Downloads\kituri\apache-maven-3.5.0\bin;C:\Users\Dalina\Downloads\kituri\apache-maven-3.5.0\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Java\jdk1.8.0_131\bin;C:\hadoop-2.6.2\bin;C:\hadoop-2.6.2\sbin;C:\hadoop-2.6.2\share\hadoop\common\*;C:\hadoop-2.6.2\share\hadoop\hdfs;C:\hadoop-2.6.2\share\hadoop\hdfs\lib\*;C:\hadoop-2.6.2\share\hadoop\hdfs\*;C:\hadoop-2.6.2\share\hadoop\yarn\lib\*;C:\hadoop-2.6.2\share\hadoop\yarn\*;C:\hadoop-2.6.2\share\hadoop\mapreduce\lib\*;C:\hadoop-2.6.2\share\hadoop\mapreduce\*;C:\hadoop-2.6.2\share\hadoop\common\lib\*;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\User;C:\OJI\FP\bin\i386-Win32;C:\Modeltech_xe_starter\win32xoem;C:\Program Files\Microsoft MPI\Bin;C:\Java\jdk1.8.0_131\bin;C:\hadoop-2.6.2\bin;C:\hadoop-2.6.2\sbin;C:\hadoop-2.6.2\share\hadoop\common\*;C:\hadoop-2.6.2\share\hadoop\hdfs;C:\hadoop-2.6.2\share\hadoop\hdfs\lib\*;C:\hadoop-2.6.2\share\hadoop\hdfs\*;C:\hadoop-2.6.2\share\hadoop\yarn\lib\*;C:\hadoop-2.6.2\share\hadoop\yarn\*;C:\hadoop-2.6.2\share\hadoop\mapreduce\lib\*;C:\hadoop-2.6.2\share\hadoop\mapreduce\*;C:\hadoop-2.6.2\share\hadoop\common\lib\*;C:\Users\Dalina\AppData\Local\rodeo\app-2.5.2\bin;C:\Users\Dalina\AppData\Local\rodeo\app-2.4.10\bin;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\Users\Dalina\Downloads\kituri\eclipse oracle\eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.3"/>
+    <property name="user.home" value="C:\Users\Dalina"/>
+    <property name="user.timezone" value="Europe/Athens"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="Dalina"/>
+    <property name="java.class.path" value="/C:/Users/Dalina/Downloads/kituri/eclipse oracle/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.6.3.20160209-1444/jars/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Java\jdk8_u131"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_131"/>
+    <property name="java.ext.dirs" value="C:\Java\jdk8_u131\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Java\jdk8_u131\lib\resources.jar;C:\Java\jdk8_u131\lib\rt.jar;C:\Java\jdk8_u131\lib\sunrsasign.jar;C:\Java\jdk8_u131\lib\jsse.jar;C:\Java\jdk8_u131\lib\jce.jar;C:\Java\jdk8_u131\lib\charsets.jar;C:\Java\jdk8_u131\lib\jfr.jar;C:\Java\jdk8_u131\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Users\Dalina\Documents\taxi\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="app.taxi.AppTest" name="testApp" time="0.015"/>
+</testsuite>
